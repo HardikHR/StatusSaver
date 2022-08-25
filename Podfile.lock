@@ -1,0 +1,28 @@
+PODS:
+  - CountryPickerView (3.3.0)
+  - DLRadioButton (1.4.12)
+  - iOSDropDown (0.3.4)
+  - ScrollableSegmentedControl (1.5.0)
+
+DEPENDENCIES:
+  - CountryPickerView
+  - DLRadioButton
+  - iOSDropDown
+  - ScrollableSegmentedControl
+
+SPEC REPOS:
+  trunk:
+    - CountryPickerView
+    - DLRadioButton
+    - iOSDropDown
+    - ScrollableSegmentedControl
+
+SPEC CHECKSUMS:
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  ScrollableSegmentedControl: 2e64bbe8968a7fcd8aae5014434481464fcdfe60
+
+PODFILE CHECKSUM: adb443fc28b2c015cec5ce45f3770a2d0043aaea
+
+COCOAPODS: 1.8.4
